@@ -16,18 +16,24 @@ Record commands for fast free up Mac space
 ## 指令
 将下列指令复制粘贴到terminal终端中，按回车即可
 删除之后电脑还会慢慢生成这些文件，所以空间不够了就删一下
-### 1. 删除系统日志（如果空间不是特别紧张，直接跳到3）
+### 1. 删除系统日志（如果空间不是特别紧张，直接跳到4）
 点代码块后面那个小窗可以直接复制
 ```
 sudo rm -rf /private/var/log/*
 ```
 <img width="570" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/61502feb-2c4e-46f0-898e-cf3915ddbf49">
 
-### 2. 删除临时文件（如果空间不是特别紧张，直接跳到3）
+### 2. 删除临时文件（如果空间不是特别紧张，直接跳到4）
 ```
 sudo rm -rf /private/var/tmp/
 ```
-### 3. 清除系统缓存（这个删很大，可以常用）
+
+### 3. 删除快速查看缓存（如果空间不是特别紧张，直接跳到4）
+```
+sudo rm -rf /private/var/folders/
+```
+
+### 4. 清除系统缓存（这个删很大，可以常用）
 ```
 sudo rm -rf ~/Library/Caches/*
 ```

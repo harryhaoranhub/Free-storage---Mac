@@ -57,7 +57,7 @@ sudo rm -rf ~/Library/Caches/*
 ### 别忘了 empty bin
 <img width="920" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/10bb67f3-a244-4c1c-a542-cd898800d7a5">
 
-### 另有直接清空微信占用内存的方法，但要确定微信电脑端没有任何重要文件或已经将文件备份
+### 另有直接清空微信或其他文件类application占用内存的方法，可以直接释放十几G以上的存储空间，但要确定微信电脑端没有任何重要文件或已经将文件备份
 
 
 

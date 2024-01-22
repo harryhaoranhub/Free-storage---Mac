@@ -43,7 +43,7 @@ sudo rm -rf ~/Library/Caches/*
 如果输入指令后电脑遇到图标不显示等问题，重启电脑
 
 ## 微信数据
-微信数据很大，可以经常删删不必要的
+微信数据量很大，可以经常删删不必要的
 
 ### 点开聊天框，找到图片或文件，右键点击图片，进入show in folder
 <img width="660" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/ea57b196-282d-4ac8-9a5b-2bffea16ad4f">
@@ -51,7 +51,14 @@ sudo rm -rf ~/Library/Caches/*
 ### 文件夹中会显示和对方所有的图片，可以选不必要的移到bin
 <img width="920" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/866ff073-7844-4a9c-89fe-66b21a415e4e">
 
-### Empty bin
+右键选中图片move to bin
+<img width="759" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/82264869-8b0b-42dd-bf0f-e9016ff9f1ad">
+
+### 别忘了 empty bin
+<img width="920" alt="image" src="https://github.com/harryhaoranhub/Free-storage---Mac/assets/94785163/10bb67f3-a244-4c1c-a542-cd898800d7a5">
+
+### 另有直接清空微信占用内存的方法，但要确定微信电脑端没有任何重要文件或已经将文件备份
+
 
 
 
